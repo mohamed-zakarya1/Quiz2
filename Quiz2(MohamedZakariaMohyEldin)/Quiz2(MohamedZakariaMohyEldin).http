@@ -1,0 +1,6 @@
+@Quiz2_MohamedZakariaMohyEldin__HostAddress = http://localhost:5025
+
+GET {{Quiz2_MohamedZakariaMohyEldin__HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
